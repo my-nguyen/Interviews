@@ -1,4 +1,4 @@
-package TikTok
+package tiktok
 
 fun main() {
     val counts = listOf(0, 1, 2, 3)
