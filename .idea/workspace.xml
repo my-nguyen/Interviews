@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6a3a20d-edd8-4d7a-a0e8-6e4d35d3a7fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/eBay/com/timed230522.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/athome230609a.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/athome230609b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/athome230609c.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/problem230609a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/problem230609b.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/problem230609c.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/timed230609a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/timed230609b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/remotasks/com/timed230609c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/wellsfargo/athome230727.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/wellsfargo/timed230727.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nguyen/IdeaProjects/Interviews/src/main/kotlin/wellsfargo",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Athome230609cKt">
-    <configuration name="Athome230609aKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="remotasks.com.Athome230609aKt" />
-      <module name="Interviews" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/wellsfargo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Athome230727Kt">
     <configuration name="Athome230609bKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="remotasks.com.Athome230609bKt" />
       <module name="Interviews" />
@@ -83,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Timed230522Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eBay.com.Timed230522Kt" />
+    <configuration name="Athome230627Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiktok.Athome230627Kt" />
+      <module name="Interviews" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Athome230727Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wellsfargo.Athome230727Kt" />
+      <module name="Interviews" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timed230727Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wellsfargo.Timed230727Kt" />
       <module name="Interviews" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,10 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Athome230727Kt" />
+        <item itemvalue="Kotlin.Timed230727Kt" />
+        <item itemvalue="Kotlin.Athome230627Kt" />
         <item itemvalue="Kotlin.Athome230609cKt" />
         <item itemvalue="Kotlin.Athome230609bKt" />
-        <item itemvalue="Kotlin.Athome230609aKt" />
-        <item itemvalue="Kotlin.Timed230522Kt" />
       </list>
     </recent_temporary>
   </component>
